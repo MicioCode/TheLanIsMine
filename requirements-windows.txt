@@ -1,0 +1,5 @@
+kamene
+pyreadline3
+psutil
+ipaddress
+colorama
